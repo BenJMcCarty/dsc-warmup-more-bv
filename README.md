@@ -51,8 +51,8 @@ Variance:
 #__SOLUTION__
 
 '''
-Bias: bias refers to the difference between the average prediction 
-and the average real value.
+Bias: bias refers to the average difference between a prediction 
+and its real value.
 
 If we had a model with high bias,
 the average predicted value would have a high difference with the  
